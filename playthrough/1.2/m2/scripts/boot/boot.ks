@@ -19,6 +19,8 @@ IF MYRADAR < 50 {
   NOTIFY("stock boot: run launch script").
   RUN stock.launch.ks.
 } ELSE {
+  NOTIFY("stock boot: load abort script").
+  COPYPATH("0:/stock.abort.ks","1:/stock.abort.ks").
   NOTIFY("stock boot: maybe run abort script").
   RUN stock.abort.ks.
 }
