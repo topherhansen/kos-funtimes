@@ -1,0 +1,115 @@
+{
+    "entries": [
+	0,
+        {
+            "lat": -0.04885873600819364,
+            "lng": -74.710155334623479,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },
+	1,
+        {
+            "lat": -0.0661568641662598,
+            "lng": -74.644172668457,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },
+	2,
+        {
+            "lat": -0.0851101502776146,
+            "lng": -74.6511001586914,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },
+	3,
+        {
+            "lat": -0.0937857106328011,
+            "lng": -74.6537246704102,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },
+	4,
+        {
+            "lat": -0.0941984429955482,
+            "lng": -74.6600952148438,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },
+	5,
+        {
+            "lat": -0.101738184690475,
+            "lng": -74.6394091796875,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },	
+	6,
+        {
+            "lat": -0.122665295465494,
+            "lng": -74.6086269558086,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },
+	7,
+        {
+            "lat": -0.0976652954654937,
+            "lng": -74.6086269558086,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },
+	8,
+        {
+            "lat": -0.0776652954654937,
+            "lng": -74.6156269558086,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },
+	9,
+        {
+            "lat": -0.0976652954654937,
+            "lng": -74.5886269558086,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        },	
+	10,
+        {
+            "lat": -0.0976652954654937,
+            "lng": -74.5586269558086,
+            "body": {
+                "name": "Kerbin",
+                "$type": "kOS.Suffixed.BodyTarget"
+            },
+            "$type": "kOS.Suffixed.GeoCoordinates"
+        }
+    ],
+    "$type": "kOS.Safe.Encapsulation.Lexicon"
+}

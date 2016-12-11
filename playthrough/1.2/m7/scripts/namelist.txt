@@ -1,0 +1,74 @@
+Experiment Storage Unit:ModuleConductionMultiplier, containing:
+LIST of 0 items:
+
+
+These are all the things that I can currently USE GETFIELD AND SETFIELD ON IN ModuleConductionMultiplier, containing:
+LIST of 0 items:
+
+:
+LIST of 0 items:
+
+These are all the things that I can currently USE DOEVENT ON IN ModuleConductionMultiplier, containing:
+LIST of 0 items:
+
+:
+LIST of 0 items:
+
+These are all the things that I can currently USE DOACTION ON IN ModuleConductionMultiplier, containing:
+LIST of 0 items:
+
+:
+LIST of 0 items:
+
+Experiment Storage Unit:ModuleScienceContainer, containing:
+LIST of 2 items:
+[0] = "(get-only) status, is String"
+[1] = "(callable) collect all, is KSPAction"
+
+These are all the things that I can currently USE GETFIELD AND SETFIELD ON IN ModuleScienceContainer, containing:
+LIST of 2 items:
+[0] = "(get-only) status, is String"
+[1] = "(callable) collect all, is KSPAction"
+:
+LIST of 1 items:
+[0] = "(get-only) status, is String"
+These are all the things that I can currently USE DOEVENT ON IN ModuleScienceContainer, containing:
+LIST of 2 items:
+[0] = "(get-only) status, is String"
+[1] = "(callable) collect all, is KSPAction"
+:
+LIST of 0 items:
+
+These are all the things that I can currently USE DOACTION ON IN ModuleScienceContainer, containing:
+LIST of 2 items:
+[0] = "(get-only) status, is String"
+[1] = "(callable) collect all, is KSPAction"
+:
+LIST of 1 items:
+[0] = "(callable) collect all, is KSPAction"
+Experiment Storage Unit:KOSNameTag, containing:
+LIST of 2 items:
+[0] = "(get-only) name tag, is String"
+[1] = "(callable) change name tag, is KSPEvent"
+
+These are all the things that I can currently USE GETFIELD AND SETFIELD ON IN KOSNameTag, containing:
+LIST of 2 items:
+[0] = "(get-only) name tag, is String"
+[1] = "(callable) change name tag, is KSPEvent"
+:
+LIST of 1 items:
+[0] = "(get-only) name tag, is String"
+These are all the things that I can currently USE DOEVENT ON IN KOSNameTag, containing:
+LIST of 2 items:
+[0] = "(get-only) name tag, is String"
+[1] = "(callable) change name tag, is KSPEvent"
+:
+LIST of 1 items:
+[0] = "(callable) change name tag, is KSPEvent"
+These are all the things that I can currently USE DOACTION ON IN KOSNameTag, containing:
+LIST of 2 items:
+[0] = "(get-only) name tag, is String"
+[1] = "(callable) change name tag, is KSPEvent"
+:
+LIST of 0 items:
+
